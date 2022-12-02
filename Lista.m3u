@@ -51,6 +51,8 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 https://panel.dattalive.com/8074/8074/playlist.m3u8
 #EXTINF:-1 tvg-id="AR | Valle TV Canal 9" tvg-name="AR | Valle TV Canal 9" tvg-logo="https://img.webme.com/pic/v/valletvcanal9/CANAL%209%20-.jpg" group-title="ARGENTINA", 578 | Valle TV Canal 9 || ARGENTINA
 http://stmv6.srvstm.com/valletv/valletv/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal12.sv" tvg-logo="https://i.imgur.com/UGDbp3O.png" group-title="Undefined",Canal 12
+https://d3kk75blondskv.cloudfront.net/hls/canal12.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="MEX | AXN HD" tvg-logo="https://images2.imgbox.com/b5/7a/6RHwKSrA_o.png" group-title="CANALES PREMIUN",AXN
