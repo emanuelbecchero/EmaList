@@ -25,6 +25,34 @@ http://castlempire.site:8080/cliente3226/123456/238689
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/662.m3u8
 
 
+#EXTINF:-1 tvg-id="AR | TVP" tvg-name="AR | TVP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/200px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png" group-title="ARGENTINA", 567 | Televisión Pública || ARGENTINA
+http://onlinetv365.xyz:8080/live/57tyjhg65ljouni7yu7/thjhg3468ihj/2.m3u8
+#EXTINF:-1 tvg-id="AR | Telefe" tvg-name="AR | Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Telefe_Internacional_%282018%29.png/150px-Telefe_Internacional_%282018%29.png" group-title="INTERNACIONALES", 568 | Telefe Internacional || ARGENTINA
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TELEFE/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEFE_stream_te&_cdn_session=455683179&_cdn_timestamp=1670041083&_cdn_token=fb7412e219d6a733ee5373b200c2f5d8d8326765
+#EXTINF:-1 tvg-id="AR | El Nueve" tvg-name="AR | El Nueve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Canal_9_2015.png/120px-Canal_9_2015.png" group-title="ARGENTINA", 569 | El Nueve || ARGENTINA
+https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/4889d240-b2df-470d-b3c5-a756f6eaeb43/5.m3u8
+#EXTINF:-1 tvg-id="AR | El Canal 13 de Buenos Aires" tvg-name="AR | El Canal 13 de Buenos Aires" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/120px-Logo_de_eltrece_lanzado_en_2016.png" group-title="ARGENTINA", 570 | El Canal 13 de Buenos Aires || ARGENTINA
+http://onlinetv365.xyz:8080/live/57tyjhg65ljouni7yu7/thjhg3468ihj/4.m3u8
+#EXTINF:-1 tvg-id="AR | El Trece Internacional" tvg-name="AR | El Trece Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Isotipo_eltrece_2016.png/120px-Isotipo_eltrece_2016.png" group-title="INTERNACIONALES", 570.2 | El Trece Internacional || ARGENTINA
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TRECEARGENTINA/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTRECEARGENTINA_stream_e4&_cdn_session=455683563&_cdn_timestamp=1670041102&_cdn_token=674422e2a45f844aee589497207ab48659841467
+#EXTINF:-1 tvg-id="AR | Argentinísima Satelital" tvg-name="AR | Argentinísima Satelital" tvg-logo="http://argentinisimatv.com.ar/wp-content/uploads/2017/09/LOGO-1.png" group-title="ARGENTINA", 571 | Argentinísima Satelital || ARGENTINA
+http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AR | Encuentro TV" tvg-name="AR | Encuentro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/150px-Logo_del_canal_Encuentro.svg.png" group-title="ARGENTINA", 572 | Encuentro TV || ARGENTINA
+https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist.m3u8
+#EXTINF:-1 tvg-id="AR | ATV de la Argentina" tvg-name="AR | ATV de la Argentina" tvg-logo="https://atvargentina.com/wp-content/uploads/2021/07/atvargentina-x1.png" group-title="ARGENTINA", 573 | ATV de la Argentina || ARGENTINA
+https://stream.arcast.com.ar/atbargentina/atbargentina/playlist.m3u8
+#EXTINF:-1 tvg-id="AR | Aire de Santa Fé" tvg-name="AR | Aire de Santa Fé" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Aire-de-Santa-Fe-en-vivo-Online.png" group-title="ARGENTINA", 574 | Aire de Santa Fé || ARGENTINA
+https://sc1.stweb.tv/airedigital/live/playlist.m3u8
+#EXTINF:-1 tvg-id="AR | Canal 10 de Córdoba" tvg-name="AR | Canal 10 de Córdoba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_10_C%C3%B3rdoba_%28Logo_2018%29.png/133px-Canal_10_C%C3%B3rdoba_%28Logo_2018%29.png" group-title="ARGENTINA", 575 | Canal 10 de Córdoba || ARGENTINA
+https://stream.arcast.live/canal10/ngrp:canal10_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AR | Canal NET" tvg-name="AR | Canal NET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/120px-Net_TV_logo.png" group-title="ARGENTINA", 576 | Canal NET || ARGENTINA
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AR | Canal 7 de Salta" tvg-name="AR | Canal 7 de Salta" tvg-logo="https://canal7salta.com/wp-content/uploads/2017/08/cropped-cropped-LOGO-1.png" group-title="ARGENTINA", 577 | Canal 7 de Salta || ARGENTINA
+https://panel.dattalive.com/8074/8074/playlist.m3u8
+#EXTINF:-1 tvg-id="AR | Valle TV Canal 9" tvg-name="AR | Valle TV Canal 9" tvg-logo="https://img.webme.com/pic/v/valletvcanal9/CANAL%209%20-.jpg" group-title="ARGENTINA", 578 | Valle TV Canal 9 || ARGENTINA
+http://stmv6.srvstm.com/valletv/valletv/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="MEX | AXN HD" tvg-logo="https://images2.imgbox.com/b5/7a/6RHwKSrA_o.png" group-title="CANALES PREMIUN",AXN
 http://castlempire.site:8080/cliente3226/123456/190666
 #EXTINF:-1 tvg-id="" tvg-name="CINE HD | CINECANAL HD" tvg-logo="https://images2.imgbox.com/0c/7b/2uxDrVmy_o.png" group-title="CANALES PREMIUN",CINECANAL
