@@ -1,32 +1,44 @@
 #EXTM3U x-tvg-url=""
 
-#EXTINF:-1 xui-id="110695" tvg-id="" tvg-name="|ES| GOL MUNDIAL 1 FHD" tvg-logo="" group-title="⚽⭐️QATAR-2022⭐️⚽",|ES| GOL MUNDIAL 1 
-http://atlas.solanaflix.com:8080/play/cJ1G_t9KXXnDKAGK_Y6dpAhRcm4752PIQe0L3Cz_iKVf5wF3ldOrzj1wWGtI7okh
-#EXTINF:-1 xui-id="110694" tvg-id="" tvg-name="|ES| GOL MUNDIAL 2 FHD" tvg-logo="" group-title="⚽⭐️QATAR-2022⭐️⚽",|ES| GOL MUNDIAL 2 
-http://atlas.solanaflix.com:8080/play/cJ1G_t9KXXnDKAGK_Y6dpAhRcm4752PIQe0L3Cz_iKW0872S8JCTvZrRXKg2h2WP
 
+
+#EXTINF:-1 xui-id="110695" tvg-id="" tvg-name="|ES| GOL MUNDIAL 1 FHD" tvg-logo="" group-title="⚽⭐️QATAR-2022⭐️⚽",|ES| GOL MUNDIAL 1 
+
+http://atlas.solanaflix.com:8080/play/cJ1G_t9KXXnDKAGK_Y6dpAhRcm4752PIQe0L3Cz_iKVf5wF3ldOrzj1wWGtI7okh
+
+#EXTINF:-1 xui-id="110694" tvg-id="" tvg-name="|ES| GOL MUNDIAL 2 FHD" tvg-logo="" group-title="⚽⭐️QATAR-2022⭐️⚽",|ES| GOL MUNDIAL 2 
+
+http://atlas.solanaflix.com:8080/play/cJ1G_t9KXXnDKAGK_Y6dpAhRcm4752PIQe0L3Cz_iKW0872S8JCTvZrRXKg2h2WP
 #EXTINF:-1 tvg-id="" tvg-name="MUNDIAL QATAR | GOL MUNDIAL FHD" tvg-logo="https://app-storage.golmundial.com/app/img/share.jpg" group-title="⚽⭐️QATAR-2022⭐️⚽",GOL MUNDIAL 3 
+
 http://castlempire.site:8080/cliente3226/123456/238903
-#EXTINF:-1 tvg-id="" tvg-name="Directv Sports Peru" tvg-logo="https://images2.imgbox.com/2a/c1/LmkNFjUQ_o.png" group-title="⚽⭐️QATAR-2022⭐️⚽",Directv Sports
+
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports Peru" tvg-logo="https://images2.imgbox.com/2a/c1/LmkNFjUQ_o.png" group-title="⚽⭐️QATAR-2022⭐️⚽”,DIRECTV SPORT
+
 http://castlempire.site:8080/cliente3226/123456/170111
+
 #EXTINF:-1 tvg-id="" tvg-name="GUATEMALA | Tigo Sports FHD" tvg-logo="http://castlempire.site:8080/images/e92d4bd634279d33ae484f9f8e840161.png" group-title="⚽⭐️QATAR-2022⭐️⚽",Tigo Sports
+
 http://castlempire.site:8080/cliente3226/123456/219175
+
 #EXTINF:-1 tvg-id="" tvg-name="SAL | Tigo Sports HD" tvg-logo="http://castlempire.site:8080/images/151f579fdeb53ad0227944f7b70e0e57.png" group-title="⚽⭐️QATAR-2022⭐️⚽",Tigo Sports
+
 http://castlempire.site:8080/cliente3226/123456/171088
-#EXTINF:-1 tvg-id="" tvg-name="TyC Sports" tvg-logo="https://images2.imgbox.com/db/11/FMItvAal_o.png" group-title="⚽⭐️QATAR-2022⭐️⚽",TyC Sports
+
+#EXTINF:-1 tvg-id="" tvg-name="TyC Sports" tvg-logo="https://images2.imgbox.com/db/11/FMItvAal_o.png" group-title="⚽⭐️QATAR-2022⭐️⚽",TyC Sports I
+
 http://latinosiptv.online:8090/live/notocar/xmauc84bx1/1112.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA Latino | Telemundo New York HD" tvg-logo="http://www.brandemia.org/wp-content/uploads/2013/02/logo_telemundo_principal.jpg" group-title="⚽⭐️QATAR-2022⭐️⚽",TELEMUNDO NEW YORK
-http://castlempire.site:8080/cliente3226/123456/238897
-#EXTINF:-1 tvg-id="" tvg-name="4K | MUNDIAL - CHV" tvg-logo="https://www.chilevision.cl/chilevision/imag/default/default_1410x793.png" group-title="⚽⭐️QATAR-2022⭐️⚽",CHILEVISION
-http://castlempire.site:8080/cliente3226/123456/238991
-#EXTINF:-1 tvg-id="" tvg-name="LA_HD:SUR AR TV Pública HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxv8cn_U9VGNWtdBwzI6UD2JcWYVrPWQPRgQ&usqp=CAU" group-title="⚽⭐️QATAR-2022⭐️⚽",TV PUBLICA ARGENTINA
-https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
-#EXTINF:-1 tvg-id="" | TyC Sports" tvg-name="AR | TyC Sports" tvg-logo="https://images2.imgbox.com/db/11/FMItvAal_o.png" group-title="⚽⭐️QATAR-2022⭐️⚽", | TyC Sports
+#EXTINF:-1 tvg-id="" | TyC Sports" tvg-name="AR | TyC Sports" tvg-logo="https://images2.imgbox.com/db/11/FMItvAal_o.png" group-title="⚽⭐️QATAR-2022⭐️⚽", | TyC Sports II
+
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/662.m3u8
 
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="http://verlateleonline.weebly.com/uploads/5/1/3/4/51344345/tyc-sports.png" group-title="⚽⭐️QATAR-2022⭐️⚽", TyC SPORTS III
 
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="http://verlateleonline.weebly.com/uploads/5/1/3/4/51344345/tyc-sports.png" group-title="⚽⭐️QATAR-2022⭐️⚽", TyC SPORTS 
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD:SUR AR TV Pública HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxv8cn_U9VGNWtdBwzI6UD2JcWYVrPWQPRgQ&usqp=CAU" group-title="⚽⭐️QATAR-2022⭐️⚽",TV PUBLICA ARGENTINA
+
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="⚽⭐️QATAR-2022⭐️⚽", EVENTOS TyC SPORT PLAY 1
 https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/index.m3u8
