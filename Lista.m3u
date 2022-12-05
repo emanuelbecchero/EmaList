@@ -152,8 +152,11 @@ https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/chunklist_w1404718741.m
 #EXTINF:-1 tvg-id="PY | Mi TV" tvg-name="PY | Mi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/LOGO_MITV_ALTA_DEFINICION_2020_PNG.png/800px-LOGO_MITV_ALTA_DEFINICION_2020_PNG.png" group-title="PARAGUAY", 601 | Mi TV || PARAGUAY
 https://rds3.desdeparaguay.net/mitv/mitv/chunklist_w735296660.m3u8?k=1ce349cc39ac8d18e2dafd9501d71521380d56fd6b86ed1516921c76d221b4f8&exp=1642343052
 
-#EXTINF:-1 xui-id="92756" tvg-name="Batman" tvg-logo="https://pics.filmaffinity.com/the_batman-449856406-large.jpg" group-title="PELÍCULAS EN ESPAÑOL ",Batman 
-https://www923.ff-02.com/token=d5zBP7ruHI6EpuzokrvMcQ/1670040603/37.133.0.0/182/2/b7/b9d61a4017c179bebecbd91b10754b72-480p.mp4
+
+
+#EXTINF:-1 xui-id="92756" tvg-name="Argentina 1985" tvg-logo="https://www.google.es/url?sa=i&url=https%3A%2F%2Fpoliticaobrera.com%2F8085-argentina-1985-gran-relato-filmico-sobre-el-juicio-a-las-juntas-y-unos-senalamientos&psig=AOvVaw1mc3L7j63ayKa0oPQy1svN&ust=1670350953794000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPCd6auM4_sCFQAAAAAdAAAAABAJ" group-title="PELÍCULAS EN ESPAÑOL ",Argentina 1985
+https://www245.ff-01.com/token=Jnrj5w2hSlWVOKE-eiSvcw/1670278734/37.133.0.0/189/d/b3/4d6e909ba8480241b01ba6e7bfa4fb3d-720p.mp4
+
 #EXTINF:-1 xui-id="92758" tvg-name="Soul (2020)" tvg-logo="http://protocol.solanaflix.com:8080/images/0Y5UT82pRYksftNBrcUNIJk7fp-RIeAkANWEJ5p9VWuPZ7-XqQAlsF66pL8o0X2hcOrw9V_STl8Hu39nKRGJjbpxxbPYdsqfWCwTSExRnDY.jpg" group-title="PELÍCULAS EN ESPAÑOL",Soul (2020)
 http://atlas.solanaflix.com:8080/play/vGFwwMcrmxB2llefVTlaHN_8ZGoiVY81uF5rEsngg1nBtwM9y8KQSNpamC1wRweX#.mp4
 #EXTINF:-1 xui-id="92755" tvg-name="Wonder Woman (2017)" tvg-logo="http://protocol.solanaflix.com:8080/images/0Y5UT82pRYksftNBrcUNIJk7fp-RIeAkANWEJ5p9VWuPZ7-XqQAlsF66pL8o0X2hKZSP6QTQOvIQvVHziVwzV4G6YLkFzHMKSHII1u2Ze-Y.jpg" group-title="PELÍCULAS EN ESPAÑOL",Wonder Woman (2017)
