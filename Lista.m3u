@@ -3,90 +3,44 @@
 
 
 #EXTINF:-1 xui-id="110695" tvg-id="" tvg-name="|ES| GOL MUNDIAL 1 FHD" tvg-logo="" group-title="⚽⭐️QATAR-2022⭐️⚽",|ES| GOL MUNDIAL 1 
-
 http://atlas.solanaflix.com:8080/play/cJ1G_t9KXXnDKAGK_Y6dpAhRcm4752PIQe0L3Cz_iKVf5wF3ldOrzj1wWGtI7okh
-
 #EXTINF:-1 xui-id="110694" tvg-id="" tvg-name="|ES| GOL MUNDIAL 2 FHD" tvg-logo="" group-title="⚽⭐️QATAR-2022⭐️⚽",|ES| GOL MUNDIAL 2 
-
 http://atlas.solanaflix.com:8080/play/cJ1G_t9KXXnDKAGK_Y6dpAhRcm4752PIQe0L3Cz_iKW0872S8JCTvZrRXKg2h2WP
 #EXTINF:-1 tvg-id="" tvg-name="MUNDIAL QATAR | GOL MUNDIAL FHD" tvg-logo="https://app-storage.golmundial.com/app/img/share.jpg" group-title="⚽⭐️QATAR-2022⭐️⚽",GOL MUNDIAL 3 
-
 http://castlempire.site:8080/cliente3226/123456/238903
-
 #EXTINF:-1 tvg-id="" tvg-name="Directv Sports Peru" tvg-logo="https://images2.imgbox.com/2a/c1/LmkNFjUQ_o.png" group-title="⚽⭐️QATAR-2022⭐️⚽”,DIRECTV SPORT
-
 http://castlempire.site:8080/cliente3226/123456/170111
-
 #EXTINF:-1 tvg-id="" tvg-name="GUATEMALA | Tigo Sports FHD" tvg-logo="http://castlempire.site:8080/images/e92d4bd634279d33ae484f9f8e840161.png" group-title="⚽⭐️QATAR-2022⭐️⚽",Tigo Sports
-
 http://castlempire.site:8080/cliente3226/123456/219175
-
 #EXTINF:-1 tvg-id="" tvg-name="SAL | Tigo Sports HD" tvg-logo="http://castlempire.site:8080/images/151f579fdeb53ad0227944f7b70e0e57.png" group-title="⚽⭐️QATAR-2022⭐️⚽",Tigo Sports
-
 http://castlempire.site:8080/cliente3226/123456/171088
-
 #EXTINF:-1 tvg-id="" tvg-name="TyC Sports" tvg-logo="https://images2.imgbox.com/db/11/FMItvAal_o.png" group-title="⚽⭐️QATAR-2022⭐️⚽",TyC Sports I
-
 http://latinosiptv.online:8090/live/notocar/xmauc84bx1/1112.m3u8
 #EXTINF:-1 tvg-id="" | TyC Sports" tvg-name="AR | TyC Sports" tvg-logo="https://images2.imgbox.com/db/11/FMItvAal_o.png" group-title="⚽⭐️QATAR-2022⭐️⚽", | TyC Sports II
-
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/662.m3u8
-
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="http://verlateleonline.weebly.com/uploads/5/1/3/4/51344345/tyc-sports.png" group-title="⚽⭐️QATAR-2022⭐️⚽", TyC SPORTS III
-
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="LA_HD:SUR AR TV Pública HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxv8cn_U9VGNWtdBwzI6UD2JcWYVrPWQPRgQ&usqp=CAU" group-title="⚽⭐️QATAR-2022⭐️⚽",TV PUBLICA ARGENTINA
-
-https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-id="CO | RCN Novelas" tvg-name="CO | RCN Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/205px-RCN_Novelas_logo_2019.png" group-title="NOVELAS", 57 | RCN Novelas
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/721.m3u8
-#EXTINF:-1 tvg-id="USA | Pasiones" tvg-name="USA | Pasiones" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQgm8S3Mil5Ktp0FUdBBNl7hfDdzPq3eIrNKWgy=s900-c-k-c0x00ffffff-no-rj" group-title="NOVELAS", 58 | Pasiones
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/PASIONES/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPASIONES_stream_42&_cdn_session=458036339&_cdn_timestamp=1670163455&_cdn_token=1283ff5d1f02ad0bdec25e151e351e4c2bf4e3da
-#EXTINF:-1 tvg-id="TR | Kanal D Drama" tvg-name="TR | Kanal D Drama" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Kanal_D_Drama_%28Latin_America%29.png/revision/latest/scale-to-width-down/200?cb=20200317052444&path-prefix=es" group-title="NOVELAS", 59 | Kanal D Drama
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/KANALD/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DKANALD_stream_b7&_cdn_session=458036515&_cdn_timestamp=1670163461&_cdn_token=857993877eb4198d3ba10f5b27f2718fb929b67d
-#EXTINF:-1 tvg-id="MX | Azteca Corazón" tvg-name="MX | Azteca Corazón" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg/200px-TV_Azteca_Coraz%C3%B3n_logo.svg.png" group-title="NOVELAS", 60 | Azteca Corazón
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/AZCORAZON/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAZCORAZON_stream_p3&_cdn_session=458036763&_cdn_timestamp=1670163475&_cdn_token=25d239e4805020be53659a4ca9cf5035a2d78fdb
-#EXTINF:-1 tvg-id="MX | Tlnovelas" tvg-name="MX | Tlnovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="NOVELAS", 61 | Tlnovelas
-http://190.61.102.67:31589/play/a08d/index.m3u8
-#EXTINF:-1 tvg-id="USA | Univision Tlnovelas" tvg-name="USA | Univision Tlnovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/180px-Univision_tlnovelas_%282019%29.svg.png" group-title="NOVELAS", 61.2 | Univision Tlnovelas
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/667.m3u8
-#EXTINF:-1 tvg-id="MX | Las Estrellas" tvg-name="MX | Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/180px-Las_Estrellas.svg.png" group-title="NOVELAS", 62 | Las Estrellas Latinoamérica
-http://181.119.67.75:8000/play/CH4
 
 
 
 #EXTINF:-1 tvg-id="AR | TVP" tvg-name="AR | TVP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/200px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png" group-title="ARGENTINA", 567 | Televisión Pública || ARGENTINA
-http://onlinetv365.xyz:8080/live/57tyjhg65ljouni7yu7/thjhg3468ihj/2.m3u8
-#EXTINF:-1 tvg-id="AR | Telefe" tvg-name="AR | Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Telefe_Internacional_%282018%29.png/150px-Telefe_Internacional_%282018%29.png" group-title="INTERNACIONALES", 568 | Telefe Internacional || ARGENTINA
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TELEFE/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEFE_stream_te&_cdn_session=455683179&_cdn_timestamp=1670041083&_cdn_token=fb7412e219d6a733ee5373b200c2f5d8d8326765
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 #EXTINF:-1 tvg-id="AR | El Nueve" tvg-name="AR | El Nueve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Canal_9_2015.png/120px-Canal_9_2015.png" group-title="ARGENTINA", 569 | El Nueve || ARGENTINA
 https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/4889d240-b2df-470d-b3c5-a756f6eaeb43/5.m3u8
 #EXTINF:-1 tvg-id="AR | El Canal 13 de Buenos Aires" tvg-name="AR | El Canal 13 de Buenos Aires" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/120px-Logo_de_eltrece_lanzado_en_2016.png" group-title="ARGENTINA", 570 | El Canal 13 de Buenos Aires || ARGENTINA
 http://onlinetv365.xyz:8080/live/57tyjhg65ljouni7yu7/thjhg3468ihj/4.m3u8
-#EXTINF:-1 tvg-id="AR | El Trece Internacional" tvg-name="AR | El Trece Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Isotipo_eltrece_2016.png/120px-Isotipo_eltrece_2016.png" group-title="INTERNACIONALES", 570.2 | El Trece Internacional || ARGENTINA
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TRECEARGENTINA/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTRECEARGENTINA_stream_e4&_cdn_session=455683563&_cdn_timestamp=1670041102&_cdn_token=674422e2a45f844aee589497207ab48659841467
-#EXTINF:-1 tvg-id="AR | Argentinísima Satelital" tvg-name="AR | Argentinísima Satelital" tvg-logo="http://argentinisimatv.com.ar/wp-content/uploads/2017/09/LOGO-1.png" group-title="ARGENTINA", 571 | Argentinísima Satelital || ARGENTINA
-http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AR | Encuentro TV" tvg-name="AR | Encuentro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/150px-Logo_del_canal_Encuentro.svg.png" group-title="ARGENTINA", 572 | Encuentro TV || ARGENTINA
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist.m3u8
-#EXTINF:-1 tvg-id="AR | ATV de la Argentina" tvg-name="AR | ATV de la Argentina" tvg-logo="https://atvargentina.com/wp-content/uploads/2021/07/atvargentina-x1.png" group-title="ARGENTINA", 573 | ATV de la Argentina || ARGENTINA
-https://stream.arcast.com.ar/atbargentina/atbargentina/playlist.m3u8
-#EXTINF:-1 tvg-id="AR | Aire de Santa Fé" tvg-name="AR | Aire de Santa Fé" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Aire-de-Santa-Fe-en-vivo-Online.png" group-title="ARGENTINA", 574 | Aire de Santa Fé || ARGENTINA
-https://sc1.stweb.tv/airedigital/live/playlist.m3u8
 #EXTINF:-1 tvg-id="AR | Canal 10 de Córdoba" tvg-name="AR | Canal 10 de Córdoba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_10_C%C3%B3rdoba_%28Logo_2018%29.png/133px-Canal_10_C%C3%B3rdoba_%28Logo_2018%29.png" group-title="ARGENTINA", 575 | Canal 10 de Córdoba || ARGENTINA
 https://stream.arcast.live/canal10/ngrp:canal10_all/playlist.m3u8
-#EXTINF:-1 tvg-id="AR | Canal NET" tvg-name="AR | Canal NET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/120px-Net_TV_logo.png" group-title="ARGENTINA", 576 | Canal NET || ARGENTINA
-https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AR | Canal 7 de Salta" tvg-name="AR | Canal 7 de Salta" tvg-logo="https://canal7salta.com/wp-content/uploads/2017/08/cropped-cropped-LOGO-1.png" group-title="ARGENTINA", 577 | Canal 7 de Salta || ARGENTINA
-https://panel.dattalive.com/8074/8074/playlist.m3u8
-#EXTINF:-1 tvg-id="AR | Valle TV Canal 9" tvg-name="AR | Valle TV Canal 9" tvg-logo="https://img.webme.com/pic/v/valletvcanal9/CANAL%209%20-.jpg" group-title="ARGENTINA", 578 | Valle TV Canal 9 || ARGENTINA
-http://stmv6.srvstm.com/valletv/valletv/playlist.m3u8
+#EXTINF:-1 group-title="AR" tvg-logo="https://yt3.ggpht.com/i213N_VQVyD9cIhh1zRP9OFW60ege6nchMkw4SzEiy6YznGacsKto8GKsFoye12LcV4pskI__w=s88-c-k-c0x00ffffff-no-rj" tvg-id="", Crónica TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1670555166/ei/vlGSY7qXLYfB8wTtgpuABA/ip/172.176.249.107/id/InSydaLSSlw.7/source/yt_live_broadcast/requiressl/yes/tx/24177048/txs/24177046%2C24177047%2C24177048/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgW_TcOgk0Ca8VIXP6K1ZR_Y_1RsZ-ZqGIzvC6jHRbv4wCIDFEsht7YwSQo-Y6A32QXryPYjntvX4SQ6DoP2yAWSZ4/file/index.m3u8
+#EXTINF:-1 group-title="AR" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT_2vc9G9uQ63H-T7ju-WzsmqbBPyXTw4l-irVbaA=s48-c-k-c0x00ffffff-no-rj" tvg-id="", TELEFE CÓRDOBA
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1670555169/ei/wVGSY-CMIdG6hgaUz6m4Bw/ip/172.176.249.107/id/rD_NzujLgao.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgFKV-HnTm-w2IuNzYoBH1rW06AddiEjbU-daPSC4yXikCICvNBldSCAGs4Wfii9xT0Jf350fsbr5irnZuZzBomnTk/file/index.m3u8
+#EXTINF:-1 group-title="AR" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTqGg2bWg02R5un1pFAeuYDMGAVCmna52i__wapvw=s88-c-k-c0x00ffffff-no-rj" tvg-id="", C5N
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1670555167/ei/v1GSY-DiEceb8wT295fgAg/ip/172.176.249.107/id/dbteiGt_t_4.1/source/yt_live_broadcast/requiressl/yes/tx/24416439/txs/24416436%2C24416437%2C24416438%2C24416439%2C24416440%2C24416441%2C24416442/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgGkvIpYnZ0y_HdsBvGthu9i4_XDIXdOLepDn_lkC9wAcCIExknTWaGAAdEmQLA--ooE7eguN-X6Ijn_1R-6fGdqgM/file/index.m3u8
+
 
 
 
